@@ -1,0 +1,19 @@
+twitter:
+  id: 'pkchavva'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+
+github:
+  id: 'pkchavva'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square'
+  
+  
+linkedin:
+  id: 'pkchavva'
+  href: 'https://linkedin.com/in/'
+  title: 'LinkedIn'
+  fa-icon: 'fa-linkedin-square'
+  
